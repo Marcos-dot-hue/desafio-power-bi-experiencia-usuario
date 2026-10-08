@@ -90,3 +90,23 @@ Além da construção dos gráficos, o projeto reforçou a importância da usabi
 **Marcos-dot-hue**
 
 Projeto desenvolvido para fins educacionais e de portfólio profissional, como parte dos desafios práticos da DIO.
+
+
+## Capturas do Dashboard
+
+### 1. Sales Report — Visão Temporal
+
+![Sales Report - Visão Temporal](sales-visao-temporal.png)
+
+### 2. Sales Report — Visão Geral
+
+![Sales Report - Visão Geral](sales-visao-geral.png)
+
+### 3. Análise Temporal de Vendas
+
+![Análise Temporal de Vendas](analise-temporal-vendas.png)
+
+### 4. Análise de Produtos e Segmentos
+
+![Análise de Produtos e Segmentos](analise-produtos-segmentos.png)
+  
